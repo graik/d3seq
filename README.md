@@ -15,7 +15,7 @@ seqdisplay.load(sequence, features);
 Where ``sequence`` is a string with a DNA sequence (single-letter code).
 
 Features should look like this:
-```
+  ```
 [
  { 'name': "name",
    'color': "#FFFFFF",
